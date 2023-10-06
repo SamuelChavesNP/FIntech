@@ -87,6 +87,9 @@ ul {
   align-items: center;
   gap: var(--gap-s);
 }
+.sidenav li:first-child {
+  margin-top: var(--gap);
+}
 
 .sidenav li span {
   width: 2rem;
@@ -110,9 +113,6 @@ ul {
   gap: var(--gap);
 }
 
-.img {
-  margin-bottom: 1rem;
-}
 
 /* media */
 
