@@ -15,7 +15,7 @@ const Sidebar = () => {
       <ul>
 
         <li>
-          <span><img src={resumo} alt="" /></span>
+          <span><img src={resumo} className="img" alt="" /></span>
           <NavLink to="/">Resumo</NavLink>
         </li>
 
