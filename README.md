@@ -1,8 +1,11 @@
 <h1 align="center">
   <img src="/src/assets/fintech.svg" />
 </h1>
-<h1>
+<h2 align="center">
   <img src="Fintech _ Resumo - Google Chrome 15_12_2023 15_47_48.png"/>
+</h2>
+<h1 align="center">
+  <a href="https://fintech-woad.vercel.app/">Clique aqui para ver o projeto 😆</a>
 </h1>
 <br><br>
 
